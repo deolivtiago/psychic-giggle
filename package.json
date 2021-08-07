@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/olvrti/psychic-giggle/issues"
   },
-  "homepage": "https://github.com/olvrti/psychic-giggle#readme"
+  "homepage": "https://github.com/olvrti/psychic-giggle#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
